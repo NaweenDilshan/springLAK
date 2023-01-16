@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springboot-project/Springboot-project.iml" filepath="$PROJECT_DIR$/Springboot-project/Springboot-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springLAK.iml" filepath="$PROJECT_DIR$/.idea/springLAK.iml" />
+    </modules>
+  </component>
+</project>
